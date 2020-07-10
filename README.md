@@ -8,7 +8,7 @@ I spend most of my professional time doing
 - Java
 
 I enjoy dabbling in other technologies outside of work. 
-- Personal website written in ReactJS but hosted in CGP in a K8s cluster.
+- Personal website written in ReactJS but hosted in CGP in a K8s cluster (still a WIP but check it out in the profile section).
 - A front end architectural theory around how much code can we share on React Native + ReactJS projects.
 - Udemy course on C# and ReactJS (mainly learning C#) and gaining exposure to back end concepts.
 - Raspberry PIs
